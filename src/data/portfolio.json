@@ -1,0 +1,150 @@
+{
+	"Basic": [
+		{
+			"type": "featured",
+			"name": "Red Onion – Online Food",
+			"image": "https://imgkub.com/images/2022/03/22/Untitled-design.png",
+			"description": "Dynamic functions and responsive design.User can see some best place.Create an account, book package,add custom package,and delete them",
+			"demo": "https://hot-red-onions.web.app/",
+			
+			"tools1": "ReactJS",
+			"tools2": "Tailwind CSS",
+			"tools3": "Firebase"
+		},
+		{
+			"type": "featured",
+			"name": "BD Travel – Best Travel Agency",
+			"image": "https://i.imgur.com/DPRe5jh.png",
+			"description": "Dynamic functions and responsive design.User can see some best place.Create an account, book package,add custom package,and delete them",
+			"demo": "https://bd-travel-76167.web.app/",
+			
+			"tools1": "ReactJS",
+			"tools2": "Bootstrap",
+			"tools3": "NodeJS"
+		},
+		{
+			"type": "featured",
+			"name": "Doctors Portal",
+			"image": "https://i.imgur.com/6d2d567.png",
+			"description": "A Single page web app with dashboard where people can pick the date and time and fix an appointment. A doctor can review his appointments and prescribe medicine to a Patient from his dashboard.",
+			"demo": "https://doctors-portal-react.firebaseapp.com/",
+			
+			"tools1": "ReactJS",
+			"tools2": "Bootstrap4",
+			"tools3": "NodeJS"
+		}
+		
+	],
+	"Standard": [
+		{
+			"type": "featured",
+			"name": "Github API",
+			"image": "https://i.imgur.com/5cBaCdP.png",
+			"description": "This is a simple vanilla javascript project built using API where you can search your github profile which will be displayed.",
+			"demo": "https://misbahmuib.github.io/github-api/index.html",
+		
+			"tools1": "JavaScript",
+			"tools2": "Javascript",
+			"tools3": "Javascript"
+		},
+		{
+			"type": "featured",
+			"name": "Book API",
+			"image": "https://i.imgur.com/c9OJxwn.png",
+			"description": "Simple book website using API and Vanilla JavaScript, ES6.",
+			"demo": "https://misbahmuib.github.io/book-api/",
+		
+			"tools1": "JavaScript",
+			"tools2": "Api",
+			"tools3": "ES6"
+		},
+		{
+			"type": "featured",
+			"name": "Food API",
+			"image": "https://i.imgur.com/Kx8pBY5.png",
+			"description": "This a simple food website built using REST API to get data dynamically by fetching. I used HTML5, CSS3, Bootstrap5 and Vanilla JavaScript along with REST API",
+			"demo": "https://misbahmuib.github.io/food-api/",
+			
+			"tools1": "Bootstrap4",
+			"tools2": "Javascript",
+			"tools3": "Rest API"
+		}
+		
+	
+	],
+
+	"Premium": [
+		{
+			"type": "featured",
+			"name": "Premium",
+			"image": "https://i.imgur.com/5cBaCdP.png",
+			"description": "This is a simple vanilla javascript project built using API where you can search your github profile which will be displayed.",
+			"demo": "https://misbahmuib.github.io/github-api/index.html",
+			
+			"tools1": "React",
+			"tools2": "React",
+			"tools3": "React"
+		},
+		{
+			"type": "featured",
+			"name": "Book API",
+			"image": "https://i.imgur.com/c9OJxwn.png",
+			"description": "Simple book website using API and Vanilla JavaScript, ES6.",
+			"demo": "https://misbahmuib.github.io/book-api/",
+			
+			"tools1": "JavaScript",
+			"tools2": "Api",
+			"tools3": "ES6"
+		},
+		{
+			"type": "featured",
+			"name": "Food API",
+			"image": "https://i.imgur.com/Kx8pBY5.png",
+			"description": "This a simple food website built using REST API to get data dynamically by fetching. I used HTML5, CSS3, Bootstrap5 and Vanilla JavaScript along with REST API",
+			"demo": "https://misbahmuib.github.io/food-api/",
+		
+			"tools1": "Bootstrap4",
+			"tools2": "Javascript",
+			"tools3": "Rest API"
+		}
+		
+	
+	],
+	"Elite": [
+		{
+			"type": "featured",
+			"name": "Elite",
+			"image": "https://i.imgur.com/5cBaCdP.png",
+			"description": "This is a simple vanilla javascript project built using API where you can search your github profile which will be displayed.",
+			"demo": "https://misbahmuib.github.io/github-api/index.html",
+		
+			"tools1": "JavaScript",
+			"tools2": "CSS3",
+			"tools3": "Api"
+		},
+		{
+			"type": "featured",
+			"name": "Book API",
+			"image": "https://i.imgur.com/c9OJxwn.png",
+			"description": "Simple book website using API and Vanilla JavaScript, ES6.",
+			"demo": "https://misbahmuib.github.io/book-api/",
+		
+			"tools1": "JavaScript",
+			"tools2": "Api",
+			"tools3": "ES6"
+		},
+		{
+			"type": "featured",
+			"name": "Food API",
+			"image": "https://i.imgur.com/Kx8pBY5.png",
+			"description": "This a simple food website built using REST API to get data dynamically by fetching. I used HTML5, CSS3, Bootstrap5 and Vanilla JavaScript along with REST API",
+			"demo": "https://misbahmuib.github.io/food-api/",
+		
+			"tools1": "Bootstrap4",
+			"tools2": "Javascript",
+			"tools3": "Rest API"
+		}
+		
+	
+	]
+}
